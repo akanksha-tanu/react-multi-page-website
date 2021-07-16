@@ -1,0 +1,41 @@
+@media only screen and (max-width:767px){
+    .box{
+        display: flex;
+        
+        height:300px;
+    }
+}
+
+.box{
+    display: flex;
+    /* width:90vw; */
+    height:500px;
+    padding:0 20px;
+    /* margin:0 3em; */
+}
+.txt{
+    /* padding-top:20%; */
+    margin:5% 0 0 2%;
+}
+
+h1{
+    padding:1% 0 5% 0;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+.image2{
+    border-top-left-radius: 50px;
+    margin:5% 0 0 2%;
+    background-image: url("https://images.skyscrapercenter.com/uploads/HongKong,-2021_(cc-by-sa)paul-tsang-unsplash210114-070155.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+
+}
+button{
+    font-style: oblique;
+    font-weight: 500;
+    background-color: #f0ae9a;
+}
+

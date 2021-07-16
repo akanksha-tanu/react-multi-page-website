@@ -1,0 +1,25 @@
+
+ .mr-auto{
+    /* float:right; */
+    display:flex;
+    /* align-items: flex-end; */
+    justify-content: flex-end;
+}
+ @media (max-width: 767.5px) {
+    .mr-auto{
+        display:flex;
+        justify-content:center;
+    }
+    
+}
+li.active{
+    /* text-decoration: underline; */
+    border-bottom :1px solid white;
+    font-size: large;
+}
+
+.navbar.scrolled{
+	background:#ff3333;
+	transition:background 1000ms;
+	color:white;
+}

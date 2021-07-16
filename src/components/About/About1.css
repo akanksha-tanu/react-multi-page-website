@@ -1,0 +1,25 @@
+.about{
+    margin-top:60px;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+/* .leff,.rigg{
+    display:block;
+    height:400px;
+    border:1px solid black;
+    float:left
+
+} */
+.intro{
+    padding:20px;
+
+}
+.imagee{
+    width:100vw;
+    height:500px;
+    background-attachment: fixed;
+    /* border-bottom-left-radius: 200px; */
+    background-size:cover;
+    background-repeat:no-repeat;
+    background:url("https://s3.amazonaws.com/ellevate-app-uploads-production/blog_posts/7585/featured_image/original/Boardroom_Image.jpg?1470973367");
+}

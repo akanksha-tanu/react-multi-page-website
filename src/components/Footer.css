@@ -1,0 +1,13 @@
+.footer_bottom{
+    display:block;
+    height:200px;
+    margin-top:20px;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background: url("https://wallpaperaccess.com/full/1489195.jpg");
+    /* background-color: black; */
+    bottom:0;
+
+}
+
